@@ -2,7 +2,7 @@
 
 <h1 align="center">Main Homepage | LANDING SITE</h1>
 
-This is the start of a website built around a recording label started from a bedroom. It was never inteded to be a full-fledged company or business. It was created to allow myself, as an artist to get my mind off of trying to "make it," and I could focus solely on the craft, content and art of it all.
+This is the start of a website built around a recording label started from a bedroom. It was never inteded to be a full-fledged company or business. It was created to allow myself, as an artist to get my mind off of trying to "make it," so I could focus solely on the craft, content and art of it all.
 
 Initially appeared on [GitHub (repo)](https://github.com/harlanray/DeflektWEB).
 
@@ -45,4 +45,4 @@ N/A
 
 ## Acknowledgments
 
-  - Inspired by the actual labels whom allow their artists the freedom to do their work comfortably without major refactoring & restrictions.
+  - Inspired by the actual record labels whom allow their artists the freedom to do their work comfortably without major refactoring & restrictions.
